@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**disha2989/disha2989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Disha 👋
 
-Here are some ideas to get you started:
+### Building software. Connecting systems. Exploring AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend development · Cloud infrastructure · Applied AI
+
+</div>
+
+---
+
+### A little about me
+
+- 💻 Junior DevOps Engineer at the Patrick J. McGovern Foundation
+- 🎓 MS in Computer Science, UC Davis
+- 🔭 Interested in reliable systems, developer tooling, and useful AI
+- 🌱 Exploring Go, observability, and efficient AI inference
+- 🐾 Away from the keyboard: workouts and adventures with my pup, Leroy
+
+### My toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,go,ts,react,aws,docker,kubernetes,postgres,redis,githubactions,grafana&perline=6" alt="Python, Java, Go, TypeScript, React, AWS, Docker, Kubernetes, PostgreSQL, Redis, GitHub Actions, and Grafana" />
+</p>
+
+### What interests me
+
+☁️ Making infrastructure easier to operate  
+🔎 Understanding systems through metrics, logs, and traces  
+🤖 Turning AI ideas into practical tools  
+🛠️ Building things that make other developers' lives easier  
+
+---
+
+<div align="center">
+
+Always curious. Always building.
+
+</div>
